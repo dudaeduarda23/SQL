@@ -4,6 +4,7 @@ Mas toda consulta de tabelas precisa ao menos de duas instruções em sua sintax
 
 ![comando select](image.png)
 Gera essa coluna
+
 ![coluna](image-1.png)
 
 ## FROM ##
@@ -16,7 +17,8 @@ Este é um parágrafo que envolverá a imagem. O texto fluirá ao redor da image
 
 Caso queremos analisar colunas específicas, escrevemos o nome da coluna e se quisermos mais de uma coluna adicionamos uma vírgula(,)
 <img src="image-3.png" alt="comando select e from" style="float: left; margin-right: 10px;" width="200"/>
-<img src="image-4.png" alt="tabela" style="float: left; margin-right: 10px;" width="200"/>
+
+<img src="image-4.png" alt="tabela" style="float: left; margin-right: 10px;" width="400"/>
 
 LIMIT - limita quantas linhas queremos.
 
