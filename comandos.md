@@ -96,9 +96,9 @@ WHERE DescNomeProduto `LIKE` **'Churn%'**
 
 palavra **%** - indica que a frase começa com essa palavras
 
-**%**palavra - indica que a frase termina com essa palavras
+%palavra - indica que a frase termina com essa palavras
 
-**%**palavra **%** - indica que no meio do valor tem essa palavra
+%palavra % - indica que no meio do valor tem essa palavra
 
 `% indica onde deve ocorrer a comparação.`
 ***
