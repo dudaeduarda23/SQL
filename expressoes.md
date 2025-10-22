@@ -25,4 +25,4 @@ Exemplo: `Idade >= 18, Status = 'Ativo'.`
 Exemplo: `CASE WHEN Preco > 100 THEN 'Caro' ELSE 'Barato' END.`
 
 # Tópicos
-[Como criar uma nova coluna](colunas.md)
+[Como criar uma nova coluna](colunas/README.md)

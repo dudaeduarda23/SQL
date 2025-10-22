@@ -42,3 +42,24 @@ grupando pelo cliente
 e ordene pelo resultado
 
 o limit é a última coisa sempre
+
+
+# HAVING
+É utiliza para filtrar resultados após os dados terem sido agrupados pela cláusula GROUP BY
+
+Não utilizamos o WHERE, pois ele é um filtro antes de agrupar.
+
+``HAVING e WHERE são duas principais cláusulas de filtragem, mas operam em estágio e níveis diferentes da consulta``
+
+Nível de filtragem
+
+WHERE - filtra linhas individuais.
+
+HAVING - filtra grupos 
+
+
+Depois que agrupamos utilizamos o HAVING
+
+![having](image-7.png)
+
+![tabela](image-8.png)

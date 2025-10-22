@@ -1,4 +1,3 @@
-# ORDER BY
 É o comando utilizado para ordenar as linhas da tabela.
 
 Exemplo01: Filtrar os 10 primeiros clientes que tem mais pontos 
