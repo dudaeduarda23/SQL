@@ -19,3 +19,8 @@ são cálculos ou combinações que geram um novo valor ou uma tabela.
 Processo de aplicar funções que operam em um conjunto de valores(linhas) e retornam um **único valor resumido**
 
 [GROUP BY e HAVING](group_by/README.md)
+
+
+### Extras
+
+[Função Substr](funcao_subtr.md)
