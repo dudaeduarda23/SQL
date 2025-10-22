@@ -1,11 +1,11 @@
-# Sobre o curso
+# Sobre o curso 🧙🏻
 Este repositório contém minhas anotações do curso de SQL do *Téo Me Why*.Contendo links para os principais assuntos e exemplos abordados.
 
 ## O que é SQL? 
 É uma linguagem de consulta estruturada para banco de dados relacional.
 `SQL é a linguagem que usamos para pedir, mudar e organizar dados.`
 
-## Alguns de seus principais elementos 
+## Alguns de seus principais elementos  
 
 [Comandos](comandos.md)
 são as ações principais que você executa. Pense neles como verbos.
@@ -21,6 +21,7 @@ Processo de aplicar funções que operam em um conjunto de valores(linhas) e ret
 [GROUP BY e HAVING](group_by/README.md)
 
 
-### Extras
 
-[Função Substr](funcao_subtr.md)
+### Extras ✨
+
+[Função Substr](funcao_substr.md)
