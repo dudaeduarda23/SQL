@@ -2,16 +2,11 @@
 
 DISTINCT e as funções de agregação estão ligadas, mas tecnicamente eles servem para objetivos diferentes.
 
-O **DISTINCT** em si não é uma função de agregação, mas sim um operador que atua na eliminação/ filtragem de linhas(de uma coluna) duplicatas.
-
-![comando distinct](image.png)
-
-![tabela com distinct](image-1.png)
-
-**SEM DISTINCT**
-![tabela sem distinct](image-2.png)
+O **DISTINCT** em si não é uma função de agregação, mas sim um operador que atua na eliminação/ filtragem de linhas(de uma coluna) duplicadas.
 
 Contexto01: Quero saber quantos clientes diferentes temos na tabela.
+
+Ação do DISTINCT: Ele garante que, antes da contagem, quaisquer valores repetidos na coluna especificada(IdCliente) sejam considerados apenas única vez.
 
 ![código](image-3.png)
 

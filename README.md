@@ -20,7 +20,7 @@ Processo de aplicar funções que operam em um conjunto de valores(linhas) e ret
 
 [GROUP BY e HAVING](group_by/README.md)
 
-
+[JOIN's](join/README.md)
 
 ### Extras ✨
 
